@@ -1,11 +1,11 @@
 {
-  "name": "iceireammakers",
+  "name": "IceCream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SerhiiShymko.github.io/IceCreamMakers",
+  "homepage": "https://Andrii-Hashenko.github.io/IceCream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IceCreamMakers/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
